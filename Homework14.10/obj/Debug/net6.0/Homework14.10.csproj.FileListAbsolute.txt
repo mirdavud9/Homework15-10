@@ -1,0 +1,14 @@
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\bin\Debug\net6.0\Homework14.10.exe
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\bin\Debug\net6.0\Homework14.10.deps.json
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\bin\Debug\net6.0\Homework14.10.runtimeconfig.json
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\bin\Debug\net6.0\Homework14.10.dll
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\bin\Debug\net6.0\Homework14.10.pdb
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.AssemblyInfoInputs.cache
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.AssemblyInfo.cs
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.csproj.CoreCompileInputs.cache
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.dll
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\refint\Homework14.10.dll
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.pdb
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\Homework14.10.genruntimeconfig.cache
+C:\Users\Mirdavud\source\repos\Homework14.10\Homework14.10\obj\Debug\net6.0\ref\Homework14.10.dll
